@@ -1,6 +1,7 @@
 # Lab Google Oauth2 - 002
 
 project name: oauth2-concept-002
+database name: lab_oauth_002
 
 Video: https://www.youtube.com/watch?v=uAKzFhE3rxU
 
