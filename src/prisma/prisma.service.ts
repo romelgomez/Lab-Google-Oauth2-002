@@ -30,6 +30,11 @@ export class PrismaService
     });
   }
 
-  async onModuleInit() {}
-  async onModuleDestroy() {}
+  async onModuleInit() {
+    await this.$connect();
+  }
+
+  async onModuleDestroy() {
+    await this.$disconnect();
+  }
 }
