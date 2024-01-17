@@ -5,9 +5,9 @@ database name: lab_oauth_002
 
 Video: https://www.youtube.com/watch?v=uAKzFhE3rxU
 
+![session](/images/basic.png)
 
-## Notes
-
+![oauth2](/images/ouath.png)
 
 ## Installation
 
